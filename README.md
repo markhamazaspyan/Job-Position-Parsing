@@ -24,3 +24,7 @@ Involvement in various Communications projects
 Activities and assignments related to media monitoring processes
 Assistance in creation of communications materials, media texts, and articles.
 Generation of ideas and coordination works"""
+
+
+## Needed libraries
+SpaCy - pip install spacy
